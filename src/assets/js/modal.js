@@ -1,6 +1,5 @@
-'use strict';
-
-(function () {
+; (function () {
+  'use strict';
 
   const modal = document.querySelector('#myModal');
   const btn = document.querySelector("#btnAjuda");
